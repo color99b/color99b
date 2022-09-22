@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=90c8ff&height=300&section=header&text=Young%20Jun&fontSize=90&animation=twinkling&fontColor=f4f9ff)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=90c8ff&height=150&section=header&text=Young%20Jun&fontSize=90&animation=twinkling&fontColor=f4f9ff&)
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+                   
 
 ## SKills
 
@@ -20,6 +20,14 @@
 <img src="https://img.shields.io/badge/(언어이름)-(색의 해시값 #제외)?style=flat-square&logo=(언어이름)&logoColor=white"/></a>
 
 -->
+
+## Contact
+###  &nbsp; Blog  &nbsp;   Instagram  &nbsp; Notion
+<a href="https://velog.io/@color99b" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ &nbsp; 
+<a href="https://www.instagram.com/yjun_1121/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+&nbsp; 
+<a href="https://youngjun98.notion.site/e5fe7cc342cd490ab62fb2119a1d759d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolor99b&count_bg=%233DB1C8&title_bg=%23555555&icon=pjsip.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
