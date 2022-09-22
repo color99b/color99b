@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=90c8ff&height=150&section=header&text=Young%20Jun&fontSize=90&animation=twinkling&fontColor=f4f9ff&)
-### Hi there 👋
-
+### 안녕하세요 잘 부탁드립니다  👋
+<br/><br/><br/><br/><br/><br/>
                    
 
 ## SKills
@@ -22,14 +22,14 @@
 -->
 
 ## Contact
-###  &nbsp; Blog  &nbsp;   Instagram  &nbsp; Notion
-<a href="https://velog.io/@color99b" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
- &nbsp; 
+###  &nbsp; Blog  &nbsp;&nbsp;&nbsp; &nbsp;     Instagram  &nbsp;  &nbsp; Notion
+&nbsp; <a href="https://velog.io/@color99b" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ &nbsp; &nbsp; &nbsp; 
 <a href="https://www.instagram.com/yjun_1121/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-&nbsp; 
-<a href="https://youngjun98.notion.site/e5fe7cc342cd490ab62fb2119a1d759d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolor99b&count_bg=%233DB1C8&title_bg=%23555555&icon=pjsip.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+&nbsp; &nbsp; &nbsp;
+<a href="https://youngjun98.notion.site/e5fe7cc342cd490ab62fb2119a1d759d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br/>  
+##
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolor99b&count_bg=%233DB1C8&title_bg=%23555555&icon=pjsip.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false&textAlign=center&alignItems=center)](https://hits.seeyoufarm.com)
 <!--
 **color99b/color99b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
