@@ -34,9 +34,9 @@ FrontEnd 와 Backend 모두 관심을 가지고 있는 신입 개발자입니다
 ## Contact
 ###  &nbsp; Blog  &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  Instagram  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; Notion
 &nbsp; <a href="https://yjunvlog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=tistory&logoColor=white"/></a>
- &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/yjun_1121/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-&nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youngjun98.notion.site/e5fe7cc342cd490ab62fb2119a1d759d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br/>  
 ##
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolor99b&count_bg=%233DB1C8&title_bg=%23555555&icon=pjsip.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false&textAlign=center&alignItems=center)](https://hits.seeyoufarm.com)
