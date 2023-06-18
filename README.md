@@ -32,7 +32,7 @@ FrontEnd 와 Backend 모두 관심을 가지고 있는 신입 개발자입니다
 -->
 
 ## Contact
-###  &nbsp; Blog  &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;    Instagram  &nbsp;  &nbsp; Notion
+###  &nbsp; Blog  &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  Instagram  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; Notion
 &nbsp; <a href="https://yjunvlog.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=tistory&logoColor=white"/></a>
  &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.instagram.com/yjun_1121/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
