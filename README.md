@@ -1,14 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=90c8ff&height=150&section=header&text=Young%20Jun&fontSize=90&animation=twinkling&fontColor=f4f9ff&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=90c8ff&height=200&section=header&text=Young%20Jun&fontSize=50&animation=twinkling&fontColor=f4f9ff&&fontAlignY=30&desc=Gibhub%20profile)
 ### 안녕하세요 잘 부탁드립니다  👋
+FrontEnd 와 Backend 모두 관심을 가지고 있는 신입 개발자입니다.
 <br/><br/><br/><br/><br/><br/>
                    
 
 ## SKills
 
 ### Platforms & Languages
+<img src="https://img.shields.io/badge/React-E33300F?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NextJs-AABBFF?style=flat-square&logo=nextjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-1572B6?style=flat-square&logo=Typescript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-D00022?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+
+
 ### Tools
 ##
 
